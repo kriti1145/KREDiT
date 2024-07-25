@@ -1,0 +1,24 @@
+-----------Exception Details on  28-06-2023 14:55:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28-06-2023 14:55:17
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'IsActive'.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

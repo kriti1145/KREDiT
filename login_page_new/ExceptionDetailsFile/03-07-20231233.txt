@@ -1,0 +1,24 @@
+-----------Exception Details on  03-07-2023 12:33:33-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 03-07-2023 12:33:33
+
+Error Line No : ine 116
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'sp_GetStudentData' expects parameter '@Name', which was not supplied.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

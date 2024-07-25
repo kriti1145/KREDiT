@@ -1,0 +1,72 @@
+-----------Exception Details on  05-07-2023 16:14:12-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05-07-2023 16:14:12
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Name'.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  05-07-2023 16:14:12-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05-07-2023 16:14:12
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Name'.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  05-07-2023 16:14:12-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 05-07-2023 16:14:12
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Name'.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

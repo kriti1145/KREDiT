@@ -1,0 +1,24 @@
+-----------Exception Details on  29-06-2023 18:31:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-06-2023 18:31:30
+
+Error Line No : ine 116
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @@Registration_No is not a parameter for procedure sp_StudentInfoCrud.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

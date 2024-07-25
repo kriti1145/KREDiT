@@ -1,0 +1,24 @@
+-----------Exception Details on  29-06-2023 11:30:11-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-06-2023 11:30:11
+
+Error Line No : ine 116
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'sp_I_CRUD'.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

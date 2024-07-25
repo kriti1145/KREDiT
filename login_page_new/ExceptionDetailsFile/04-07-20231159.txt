@@ -1,0 +1,72 @@
+-----------Exception Details on  04-07-2023 11:59:11-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04-07-2023 11:59:11
+
+Error Line No :  param)
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'sp_GetStudent'.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  04-07-2023 11:59:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04-07-2023 11:59:15
+
+Error Line No :  param)
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'sp_GetStudent'.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  04-07-2023 11:59:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 04-07-2023 11:59:30
+
+Error Line No :  param)
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'sp_GetStudent'.
+
+ Error Page Url: https://localhost:44356/CRUD.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

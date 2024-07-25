@@ -1,0 +1,24 @@
+-----------Exception Details on  17-07-2023 01:07:13-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 17-07-2023 01:07:13
+
+Error Line No : ine 116
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure sp_GridView has no parameters and arguments were supplied.
+
+ Error Page Url: https://localhost:44356/search.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
